@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu-list>
+	<menu name="title-screen" back-func="">
+		<image src="bg.png" pos-x="0" pos-y="0"/>
+		<button pos-x="120" pos-y="940" width="504" height="100" growth="10" text="45:Play" texture="default" func="open_local_levels" color="230,25,25"/>
+		<button pos-x="708" pos-y="940" width="504" height="100" growth="10" text="45:Create" texture="default" func="open_level_editor" color="5,200,5"/>
+		<button pos-x="1296" pos-y="940" width="504" height="100" growth="10" text="45:Explore" texture="default" func="open_global_levels" color="35,35,230"/>
+	</menu>
+	<menu name="local-levels" back-func="title_screen_back">
+		<image src="explorer-bg.png" pos-x="0" pos-y="0"/>
+		<scrollbox pos-x="100" pos-y="100" width="1720" height="880" texture="default-thick" color="230,190,40" func="create_local_level_scrollbox"/>
+	</menu>
+</menu-list>
