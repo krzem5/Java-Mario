@@ -1,0 +1,37 @@
+Loading Font: ./com/krzem/mario/assets/fonts/default.ttf
+Registering Menu Function: open_local_levels
+Registering Menu Function: title_screen_back
+Registering Menu Function: create_local_level_scrollbox
+Registering Menu Function: start_level
+Registering Menu Function: end_level
+Loading Menu Config File: ./com/krzem/mario/assets/layout/menu.xml
+Loading Image: ./com/krzem/mario/assets/images/gui/texture/default.png (gui/texture/default.png)
+Loading Image: ./com/krzem/mario/assets/images/gui/texture/default-thick.png (gui/texture/default-thick.png)
+Calling Menu Function: 'create_local_level_scrollbox' with args [com.krzem.mario.MenuScrollbox@66d33a]
+Loading Level File: ./com/krzem/mario/assets/layout/0.ld
+Loading Image: ./com/krzem/mario/assets/images/background/ground-ground.png (background/ground-ground.png)
+Loading Image: ./com/krzem/mario/assets/images/background/ground-air.png (background/ground-air.png)
+Loading Contour: ./com/krzem/mario/assets/contours/entity/player/right-fall.cf (entity/player/right-fall.cf)
+Loading Polygon: ./com/krzem/mario/assets/contours/entity/player/right-fall.cf (entity/player/right-fall.cf)
+Loading Contour: ./com/krzem/mario/assets/contours/base-block.cf (base-block.cf)
+Loading Polygon: ./com/krzem/mario/assets/contours/base-block.cf (base-block.cf)
+Loading Contour: ./com/krzem/mario/assets/contours/entity/player/right-stand.cf (entity/player/right-stand.cf)
+Loading Polygon: ./com/krzem/mario/assets/contours/entity/player/right-stand.cf (entity/player/right-stand.cf)
+Loading Image: ./com/krzem/mario/assets/images/block/stone.png (block/stone.png)
+Loading Image: ./com/krzem/mario/assets/images/block/spike@0.png (block/spike@0.png)
+Loading Image: ./com/krzem/mario/assets/images/entity/player/right-stand.png (entity/player/right-stand.png)
+Loading Image: ./com/krzem/mario/assets/images/block/spike@1.png (block/spike@1.png)
+Loading Image: ./com/krzem/mario/assets/images/block/spike@2.png (block/spike@2.png)
+Loading Contour: ./com/krzem/mario/assets/contours/entity/player/right-walk.cf (entity/player/right-walk.cf)
+Loading Polygon: ./com/krzem/mario/assets/contours/entity/player/right-walk.cf (entity/player/right-walk.cf)
+Loading Image: ./com/krzem/mario/assets/images/entity/player/right-walk@0.png (entity/player/right-walk@0.png)
+Loading Image: ./com/krzem/mario/assets/images/entity/player/right-walk@1.png (entity/player/right-walk@1.png)
+Loading Image: ./com/krzem/mario/assets/images/entity/player/right-walk@2.png (entity/player/right-walk@2.png)
+Loading Image: ./com/krzem/mario/assets/images/entity/player/right-jump.png (entity/player/right-jump.png)
+Loading Contour: ./com/krzem/mario/assets/contours/entity/player/right-jump.cf (entity/player/right-jump.cf)
+Loading Polygon: ./com/krzem/mario/assets/contours/entity/player/right-jump.cf (entity/player/right-jump.cf)
+Loading Image: ./com/krzem/mario/assets/images/entity/player/right-fall.png (entity/player/right-fall.png)
+Loading Contour: ./com/krzem/mario/assets/contours/entity/player/left-fall.cf (entity/player/left-fall.cf)
+Loading Polygon: ./com/krzem/mario/assets/contours/entity/player/left-fall.cf (entity/player/left-fall.cf)
+Loading Image: ./com/krzem/mario/assets/images/entity/player/left-fall.png (entity/player/left-fall.png)
+Saving Log to file: D:\K\Coding\projects\Java-Mario\.\com\krzem\mario\logs\6979488508300.log
