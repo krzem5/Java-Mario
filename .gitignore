@@ -2,3 +2,4 @@
 
 **/*.class
 com/krzem/mario/logs/*.log
+com/krzem/mario/assets/layout/*.py
