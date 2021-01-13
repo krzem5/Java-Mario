@@ -1,5 +1,2 @@
-### Github File Push Ignore
-
-**/*.class
 com/krzem/mario/logs/*.log
 com/krzem/mario/assets/layout/*.py
