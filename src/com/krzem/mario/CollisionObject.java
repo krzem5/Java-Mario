@@ -2,9 +2,6 @@ package com.krzem.mario;
 
 
 
-
-
-
 public class CollisionObject extends Constants{
 	public CollisionEngine ce;
 	public double[][][] s;
