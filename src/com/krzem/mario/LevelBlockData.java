@@ -2,9 +2,6 @@ package com.krzem.mario;
 
 
 
-
-
-
 public class LevelBlockData extends Constants{
 	public int id;
 	public int x;
